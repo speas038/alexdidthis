@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://alexdidthis.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+publishdir="/var/www/html"
